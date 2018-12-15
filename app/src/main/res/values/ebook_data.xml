@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ebook1Title">An Occurrence at Owl Creek Bridge</string>
+    <string name="ebook1Abstract">Short story by Ambrose Bierce, published in 1891 in Tales of Soldiers and Civilians, a collection that in 1898 was revised, enlarged, and retitled in the Midst of Life. The narrative concerns the final thoughts of a Southern planter as he is being hanged by Union soldiers. In the brief period between the tightening of the noose and the actual breaking of his neck, the man imagines his escape.</string>
+    <string name="ebook1AuthorName">Ambrose Bierce</string>
+    <string name="ebook1AuthorDescription"></string>
+    <string name="ebook1Cover">owl_creek_bridge</string>
+    <string name="ebook1AuthorPic"></string>
+
+    <string name="ebook2Title">James Locker: The Duality of Fate</string>
+    <string name="ebook2Abstract">Struggling with his mental health, James must catch a killer connected to his past! When James Locker\'s boss the legendary Michael Fuller is sacked from the central Sydney Murder Investigation Unit his dream to be a crime detective finally comes true. His dream soon turns into a nightmare however as his mental state is deteriorating and Sydney is plagued by a psychopathic serial killer who seems to have a special interest in James personally. Will James Locker manage to stop this villain before it is too late?</string>
+    <string name="ebook2AuthorName">Martin Lundqvist</string>
+    <string name="ebook2AuthorDescription"></string>
+    <string name="ebook2Cover">james_locker</string>
+    <string name="ebook2AuthorPic"></string>
+
+    <string name="ebook3Title">The Dentist</string>
+    <string name="ebook3Abstract">Going to the Dentist is never fun, but spare a thought for the poor Dentist! Even Dentists need a break, sometimes... This short story is not about your typical dentist. Nor is it about your typical dental patient. I can\'t say anything more - you\'ll just have to read it. Oh, you do have a strong stomach... right? </string>
+    <string name="ebook3AuthorName">Porle Joen</string>
+    <string name="ebook3AuthorDescription"></string>
+    <string name="ebook3Cover">the_dentist</string>
+    <string name="ebook3AuthorPic"></string>
+
+    <string name="ebook4Title">Desperate Choices</string>
+    <string name="ebook4Abstract">Rochelle Rathbone flirts with danger when she accidentally meets Tobias Chandler, Miami drug czar; thus, setting the stage for horrors she never knew existed until after they married. Innocent and vulnerable, she becomes his prisoner. She devises a desperate plan and successfully escapes, despite his threat to kill her if she does. She meets and falls in love with Michael Matheson, knowing Tobias will come after her. She realizes there are only two things that will stop him from pursuing her—her death or his...</string>
+    <string name="ebook4AuthorName">Jeanette Cooper</string>
+    <string name="ebook4AuthorDescription">Jeanette Cooper, a native Georgian, a former elementary school teacher, graduate of University of Central Florida with a Bachelor’s Degree in Elementary Education and a Master’s in Reading instruction, is mother of a son, grandmother of a grandson, and lives in North Florida near the Suwannee River.</string>
+    <string name="ebook4Cover">desperate_choices</string>
+    <string name="ebook4AuthorPic">jeanette_copper</string>
+
+    <string name="ebook5Title">After the Facts: An after Coffman Mystery</string>
+    <string name="ebook5Abstract">The town of Hustle has a new private eye, and his name is After Coffman. His first case, and After is finding it anything but business as usual. He has no client, no money, and too many suspects. In line for After\'s scalp are drug lords, gun runners, and the Hustle Homicide Department. Each wants a piece of him, but After\'s greatest foe may be an old black cat named Soot. </string>
+    <string name="ebook5AuthorName">Vincent M. Lutterbie</string>
+    <string name="ebook5AuthorDescription"></string>
+    <string name="ebook5Cover">after_the_facts</string>
+    <string name="ebook5AuthorPic"></string>
+
+
+</resources>
